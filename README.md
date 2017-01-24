@@ -5,7 +5,7 @@ Vitae**
 
   
 
-![Image](file:///C:/Users/Tigran/AppData/Local/Temp/msohtmlclip1/01/clip_image003.jpg)**Tigran Shakhbekyan**
+![Image](https://github.com/shtigran/Resume/blob/master/Tigran.jpg)**Tigran Shakhbekyan**
 
 Personal details
 
