@@ -1,10 +1,5 @@
-**Curriculum Vitae**
 
-![](media/dc5698d1af8367bfeb53e465ff81aab6.jpg)
-
-**Tigran Shakhbekyan**
-
-Personal details
+**Personal details**
 
 Permanent address: Apt. 5, Building 7, Vilnyus St., Yerevan, Armenia  
 Phone (Mobile): +374 55 777 525  
