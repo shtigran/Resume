@@ -5,8 +5,6 @@ Vitae**
 
   
 
-![Image](https://github.com/shtigran/Resume/blob/master/Tigran.jpg)**Tigran Shakhbekyan**
-
 Personal details
 
 Permanent address: Apt. 5,Building 7, Vilnyus St., Yerevan, Armenia   
