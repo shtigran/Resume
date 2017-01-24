@@ -1,10 +1,3 @@
-**Curriculum
-Vitae**
-
-** **
-
-  
-
 Personal details
 
 Permanent address: Apt. 5,Building 7, Vilnyus St., Yerevan, Armenia   
