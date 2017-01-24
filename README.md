@@ -20,18 +20,15 @@ Linkedin: https://www.linkedin.com/in/tigranshakhbekyan
  
 #EDUCATION
 
-**Yerevan State University**
-
-Department of Geology and Geography PhD student, PhD degree
+**Yerevan State University**                                              _Yerevan__, Armenia_
+Department of Geology and Geography PhD student, PhD degree              _Sep. 2011 – May 2014_                                          
 
  
 
-_Yerevan__,
        
 
-Armenia_
 
-_Sep. 2011 – May 2014_
+
 
 _ _
 
