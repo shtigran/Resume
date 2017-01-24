@@ -15,6 +15,7 @@ Marital status: Married
 E-mail:[shakhbekyantigran@gmail.com](mailto:shakhbekyantigran@gmail.com)
 
 Linkedin: https://www.linkedin.com/in/tigranshakhbekyan
+
 ----
  
 #EDUCATION
