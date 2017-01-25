@@ -10,7 +10,7 @@ Linkedin: <https://www.linkedin.com/in/tigranshakhbekyan>
 
 ----
 
-#EDUCATION#
+#EDUCATION
 
 | Yerevan State University Department of Geology and Geography PhD student, PhD degree      | *Sep. 2011 – May 2014*,  Yerevan, Armenia |
 |----------------------------------------------------------------------------|----------------------------------------------------------|---|
@@ -20,12 +20,13 @@ Linkedin: <https://www.linkedin.com/in/tigranshakhbekyan>
 
   ----
   
-#EXPERIENCE                                                                                                                             |
+#EXPERIENCE                                                                                                                             
 
--   "Freedom Mining" LLC, Geological prospecting and exploration, geologist
+-   
 
-    *Nagorno-Karabakh, Armenia June 2013- present*
-
+    
+| "Freedom Mining" LLC, Geological prospecting and exploration, geologist           | *Nagorno-Karabakh, Armenia June 2013- present*  |   |
+|----------------------------------------------------------------------------|----------------------------------------------------------|---|
 | "Abvan" Ltd, Geological prospecting and exploration, geologist             | *Nagorno-Karabakh, Armenia October 2012- November 2012*  |   |
 |----------------------------------------------------------------------------|----------------------------------------------------------|---|
 | "Abvan" Ltd, Geological prospecting and exploration, geologist             | *Region of Gegharqunik, Armenia July 2011- August -2012* |   |
