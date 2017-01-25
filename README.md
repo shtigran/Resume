@@ -15,12 +15,12 @@ Linkedin: <https://www.linkedin.com/in/tigranshakhbekyan>
 | Yerevan State University Department of Geology and Geography PhD student, PhD degree      | *Sep. 2011 – May 2014*,  Yerevan, Armenia |
 |----------------------------------------------------------------------------|----------------------------------------------------------|---|
 | Yerevan State University  Department of Geology and Geography, Master of Science (Diploma with Honor)  | *Sep. 2009– May 2011*, Yerevan, Armenia  |
-| Yerevan State University Department of Geology, Bachelor’s Degree (Diploma with Honor)                      | Sep. 2005 – May 2009, Yerevan, Armenia      |         |   |
+| Yerevan State University Department of Geology, Bachelor’s Degree (Diploma with Honor)                      | Sep. 2005 – May 2009, Yerevan, Armenia     |
 | № 10 secondary School            |   1995-2005, *Gyumri*   |
 
   ----
   
-#EXPERIENCE                                                                                           |                                       |
+#EXPERIENCE                                                                                                                             |
 
 -   "Freedom Mining" LLC, Geological prospecting and exploration, geologist
 
