@@ -66,6 +66,10 @@ Armenian (native), Russian (fluent), English (good, TOEFL)
 
 | Languages: C, C++, C\# 6.0 |
 |----------------------------|
+| Technics: .NET Framework 4.6, Object Oriented Programming, MS Visual Studio
+    2015, GitHub
+|
+|----------------------------|
 
 -   Languages: C, C++, C\# 6.0
 -   Technics: .NET Framework 4.6, Object Oriented Programming, MS Visual Studio
@@ -78,6 +82,8 @@ Armenian (native), Russian (fluent), English (good, TOEFL)
 -   Databases: SQL, MySQL
 
 -   Programs: Internet, MS office, Autocad, Photoshop, etc.
+
+----
 
 **OBJECTIVE: Developer**
 
