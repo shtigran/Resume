@@ -56,16 +56,18 @@ Linkedin: <https://www.linkedin.com/in/tigranshakhbekyan>
 | Published 1 book, 1 map and 11 Articles in various journals and books (available upon request)                                                                                                                                                                                                                    |  2008-2015                           |   |
 | Member of the Student Scientific Society of the Yerevan State University                                                                                                                                                                                                                                          | *2008-2014*                    |   |
 ----
+
 #LANGUAGES
 
 Armenian (native), Russian (fluent), English (good, TOEFL)
+
 ----
 #TECHNICAL SKILLS
 
 | Languages: C, C++, C\# 6.0 |
 |----------------------------|
 
-
+-   Languages: C, C++, C\# 6.0
 -   Technics: .NET Framework 4.6, Object Oriented Programming, MS Visual Studio
     2015, GitHub
 
