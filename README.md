@@ -45,7 +45,7 @@ Linkedin: <https://www.linkedin.com/in/tigranshakhbekyan>
 
 ----   
        
-  #TRAININGS AND SOCIAL ACTIVITIES 
+#TRAININGS AND SOCIAL ACTIVITIES 
   
 | Betconstruct Intership program, Microsoft Innovation Center          | December 2016 – January 2017 |
 |----------------------------------------------------------------------------|----------------------------------------------------------|---|                                                                                                                                
