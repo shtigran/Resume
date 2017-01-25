@@ -36,10 +36,10 @@ Linkedin: <https://www.linkedin.com/in/tigranshakhbekyan>
 
 ----
 
-#AWARDS RECEIVED                                                                                                            
+#AWARDS RECEIVED     
 
-    -   Silver medal and Certificate of Appreciation for the Best student of the
-        Yerevan State University, *May-2009*                                      
+-   Silver medal and Certificate of Appreciation for the Best student of the
+    Yerevan State University, *May-2009*                                      
 
         
 
