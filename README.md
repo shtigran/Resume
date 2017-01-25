@@ -33,13 +33,16 @@ Linkedin: <https://www.linkedin.com/in/tigranshakhbekyan>
 | Geological prospecting and exploration, field assistant                    | *Region of Gegharqunik,*  *August-2007*                  |   |
 | "Structural geology and geological mapping, geophysics", summer field work | *Regions of Armenia July-2007*                           |   |
 | "General geology of the Republic of Armenia", summer field work            | *Regions of Armenia*                                     |   |
-|                                                                            | *July - 2006*                                            |   |
-| **AWARDS RECEIVED**                                                        |                                                          |   |
+|                                                                            | *July - 2006*                               |
+
+----
+
+#AWARDS RECEIVED                                                                                                            
 
     -   Silver medal and Certificate of Appreciation for the Best student of the
-        Yerevan State University
+        Yerevan State University, *May-2009*                                      
 
-        *May-2009*
+        
 
 | Certificates of Appreciation for the reports in scientific conferences                                                                                                                                                                                                                                            | *Armenia, Georgia, Russia*     |   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|---|
