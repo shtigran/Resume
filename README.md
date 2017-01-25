@@ -8,8 +8,7 @@ Nationality: Armenian
 
 Sex: Male
 
-Marital status: Married
-<пустая строка>
+Marital status: Married <пустая строка>
 E-mail: <shakhbekyantigran@gmail.com>
 
 Linkedin: <https://www.linkedin.com/in/tigranshakhbekyan>
