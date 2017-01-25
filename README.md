@@ -12,7 +12,7 @@ Linkedin: <https://www.linkedin.com/in/tigranshakhbekyan>
 
 ----
 
-#EDUCATION
+***EDUCATION***
 
 | Yerevan State University Department of Geology and Geography PhD student, PhD degree      | *Sep. 2011 – May 2014*,  Yerevan, Armenia |
 |----------------------------------------------------------------------------|----------------------------------------------------------|---|
@@ -22,7 +22,7 @@ Linkedin: <https://www.linkedin.com/in/tigranshakhbekyan>
 
   ----
   
-#EXPERIENCE                                                                                                                                  
+***EXPERIENCE***                                                                                                                                 
 | "Freedom Mining" LLC, Geological prospecting and exploration, geologist           | *Nagorno-Karabakh, Armenia June 2013- present*  |
 |----------------------------------------------------------------------------|----------------------------------------------------------|---|
 | "Abvan" Ltd, Geological prospecting and exploration, geologist             | *Nagorno-Karabakh, Armenia October 2012- November 2012*  |   |
@@ -38,7 +38,7 @@ Linkedin: <https://www.linkedin.com/in/tigranshakhbekyan>
 
 ----
 
-#AWARDS RECEIVED     
+***AWARDS RECEIVED***     
 
 -   Silver medal and Certificate of Appreciation for the Best student of the
     Yerevan State University, *May-2009*     
@@ -47,7 +47,7 @@ Linkedin: <https://www.linkedin.com/in/tigranshakhbekyan>
 
 ----   
        
-#TRAININGS AND SOCIAL ACTIVITIES 
+***TRAININGS AND SOCIAL ACTIVITIES*** 
   
 | Betconstruct Intership program, Microsoft Innovation Center          | December 2016 – January 2017 |
 |----------------------------------------------------------------------------|----------------------------------------------------------|---|                                                                                                                                
@@ -59,12 +59,12 @@ Linkedin: <https://www.linkedin.com/in/tigranshakhbekyan>
 | Member of the Student Scientific Society of the Yerevan State University                                                                                                                                                                                                                                          | *2008-2014*                    |   |
 ----
 
-#LANGUAGES
+***LANGUAGES***
 
 Armenian (native), Russian (fluent), English (good, TOEFL)
 
 ----
-#TECHNICAL SKILLS
+***TECHNICAL SKILLS***
 
 -   Languages: C, C++, C\# 6.0
 -   Technics: .NET Framework 4.6, Object Oriented Programming, MS Visual Studio
@@ -80,7 +80,7 @@ Armenian (native), Russian (fluent), English (good, TOEFL)
 
 ----
 
-#OBJECTIVE: Developer
+***OBJECTIVE: Developer***
 
 In my opinion, my chief qualities, are sense of purpose and hardworking, that
 will help me to become a good programmer. My ability to find solutions to
