@@ -64,13 +64,6 @@ Armenian (native), Russian (fluent), English (good, TOEFL)
 ----
 #TECHNICAL SKILLS
 
-| Languages: C, C++, C\# 6.0 |
-|----------------------------|
-| Technics: .NET Framework 4.6, Object Oriented Programming, MS Visual Studio
-    2015, GitHub
-|
-|----------------------------|
-
 -   Languages: C, C++, C\# 6.0
 -   Technics: .NET Framework 4.6, Object Oriented Programming, MS Visual Studio
     2015, GitHub
@@ -85,7 +78,7 @@ Armenian (native), Russian (fluent), English (good, TOEFL)
 
 ----
 
-**OBJECTIVE: Developer**
+#OBJECTIVE: Developer
 
 In my opinion, my chief qualities, are sense of purpose and hardworking, that
 will help me to become a good programmer. My ability to find solutions to
