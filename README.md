@@ -6,7 +6,7 @@ Birth date: 11.05MAY.1988
 Nationality: Armenian
 Sex: Male, Marital status: Married 
 
-E-mail: <shakhbekyantigran@gmail.com>
+E-mail: <shakhbekyantigran@gmail.com>                    
 Linkedin: <https://www.linkedin.com/in/tigranshakhbekyan>
 
 ----
