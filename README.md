@@ -8,7 +8,7 @@ Nationality: Armenian
 
 Sex: Male
 
-Marital status: Married <пустая строка>
+Marital status: Married 
 E-mail: <shakhbekyantigran@gmail.com>
 
 Linkedin: <https://www.linkedin.com/in/tigranshakhbekyan>
@@ -20,7 +20,7 @@ Linkedin: <https://www.linkedin.com/in/tigranshakhbekyan>
 | **Yerevan State University** Department of Geology and Geography PhD student, PhD degree                  | *Sep. 2011 – May 2014*                |
 |-----------------------------------------------------------------------------------------------------------|---------------------------------------|
 | **Yerevan State University**  Department of Geology and Geography, Master of Science (Diploma with Honor) | *Sep. 2009– May 2011*                 |
-| Yerevan State University Department of Geology, Bachelor’s Degree (Diploma with Honor)                    | Yerevan, Armenia Sep. 2005 – May 2009 |
+| **Yerevan State University** Department of Geology, Bachelor’s Degree (Diploma with Honor)                    | Yerevan, Armenia Sep. 2005 – May 2009 |
 | **№ 10 secondary** School                                                                                 | *Gyumri,*  *1995-2005*                |
 | **EXPERIENCE**                                                                                            |                                       |
 
