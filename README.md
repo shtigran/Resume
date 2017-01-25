@@ -1,4 +1,4 @@
-**Personal details**
+*Personal details*
 
 Permanent address: Apt. 5, Building 7, Vilnyus St., Yerevan, Armenia  
 Phone (Mobile): +374 55 777 525  
@@ -10,7 +10,6 @@ Sex: Male
 Marital status: Married 
 
 E-mail: <shakhbekyantigran@gmail.com>
-
 Linkedin: <https://www.linkedin.com/in/tigranshakhbekyan>
 
 ----
