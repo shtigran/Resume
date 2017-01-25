@@ -3,7 +3,7 @@
 Permanent address: Apt. 5, Building 7, Vilnyus St., Yerevan, Armenia  
 Phone (Mobile): +374 55 777 525  
 Birth date: 11.05MAY.1988                                                                                                       
-Nationality: Armenian,                                                                      Marital status: Married, 
+Nationality: Armenian, Marital status: Married, 
 Sex: Male  
 E-mail: <shakhbekyantigran@gmail.com>                    
 Linkedin: <https://www.linkedin.com/in/tigranshakhbekyan>
@@ -12,9 +12,9 @@ Linkedin: <https://www.linkedin.com/in/tigranshakhbekyan>
 
 #EDUCATION
 
-| Yerevan State University Department of Geology and Geography PhD student, PhD degree             | Yerevan, Armenia, *Sep. 2011 – May 2014*   |
+| Yerevan State University Department of Geology and Geography PhD student, PhD degree             | *Sep. 2011 – May 2014*,  Yerevan, Armenia |
 |----------------------------------------------------------------------------|----------------------------------------------------------|---|
-| Yerevan State University  Department of Geology and Geography, Master of Science (Diploma with Honor)           |  Yerevan, Armenia, *Sep. 2009– May 2011*   |
+| Yerevan State University  Department of Geology and Geography, Master of Science (Diploma with Honor)           | *Sep. 2009– May 2011*, Yerevan, Armenia  |
 | Yerevan State University Department of Geology, Bachelor’s Degree (Diploma with Honor)                      | Sep. 2005 – May 2009, Yerevan, Armenia      |         |   |
 | № 10 secondary School            |   1995-2005, *Gyumri*   |
 
