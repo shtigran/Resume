@@ -5,12 +5,13 @@ Phone (Mobile): +374 55 777 525
 Birth date: 11.05MAY.1988           
 Nationality: Armenian
 Sex: Male, Marital status: Married 
+
 E-mail: <shakhbekyantigran@gmail.com>
 Linkedin: <https://www.linkedin.com/in/tigranshakhbekyan>
 
 ----
 
-**EDUCATION**
+#EDUCATION
 
 | **Yerevan State University** Department of Geology and Geography PhD student, PhD degree                  | *Sep. 2011 – May 2014*                |
 |-----------------------------------------------------------------------------------------------------------|---------------------------------------|
