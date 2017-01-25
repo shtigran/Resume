@@ -11,7 +11,9 @@ Linkedin: <https://www.linkedin.com/in/tigranshakhbekyan>
 ----
 
 #EDUCATION
-| Yerevan State University Department of Geology and Geography PhD student, PhD degree             |  *Sep. 2011 – May 2014*   |---------------------------------------------------------------------------|----------------------------------------------------------|
+
+| Yerevan State University Department of Geology and Geography PhD student, PhD degree             |  *Sep. 2011 – May 2014*   |
+|----------------------------------------------------------------------------|----------------------------------------------------------|---|
 
 | **Yerevan State University** Department of Geology and Geography PhD student, PhD degre            | *Sep. 2011 – May 2014*   |
 | "Abvan" Ltd, Geological prospecting and exploration, geologist             | *Region of Syunik, Armenia June- October-2010*           |   |
