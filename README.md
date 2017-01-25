@@ -14,8 +14,8 @@ Linkedin: <https://www.linkedin.com/in/tigranshakhbekyan>
 
 | Yerevan State University Department of Geology and Geography PhD student, PhD degree             | *Sep. 2011 – May 2014*   |
 |----------------------------------------------------------------------------|----------------------------------------------------------|---|
-| "Abvan" Ltd, Geological prospecting and exploration, geologist             | *Region of Gegharqunik, Armenia July 2011- August -2012* |   |
-| "Abvan" Ltd, Geological prospecting and exploration, geologist             | *Region of Syunik, Armenia June- October-2010*           |   |
+| Yerevan State University  Department of Geology and Geography, Master of Science (Diploma with Honor)           |  *Sep. 2009– May 2011*   |
+| Yerevan State University Department of Geology, Bachelor’s Degree (Diploma with Honor)                      | Sep. 2005 – May 2009        |         |   |
 | Geophysical survey of the Mghart gold ore field, geophysicist              | *Region of Lori, Armenia September- October-2009*        |   |
 
 -| **Yerevan State University** Department of Geology and Geography PhD student, PhD degree                  | *Sep. 2011 – May 2014*                |
