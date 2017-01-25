@@ -32,8 +32,7 @@ Linkedin: <https://www.linkedin.com/in/tigranshakhbekyan>
 | Armenian-Russian archaeological expedition, geologist                      | *Region of Lori, Armenia September- October-2007*        |   |
 | Geological prospecting and exploration, field assistant                    | *Region of Gegharqunik,*  *August-2007*                  |   |
 | "Structural geology and geological mapping, geophysics", summer field work | *Regions of Armenia July-2007*                           |   |
-| "General geology of the Republic of Armenia", summer field work            | *Regions of Armenia*                                     |   |
-|                                                                            | *July - 2006*                               |
+| "General geology of the Republic of Armenia", summer field work            | *Regions of Armenia* *July - 2006*                       
 
 ----
 
