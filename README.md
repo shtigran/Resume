@@ -39,13 +39,12 @@ Linkedin: <https://www.linkedin.com/in/tigranshakhbekyan>
 #AWARDS RECEIVED     
 
 -   Silver medal and Certificate of Appreciation for the Best student of the
-    Yerevan State University, *May-2009*                                      
+    Yerevan State University, *May-2009*     
+-   Certificates of Appreciation for the reports in scientific conferences, *Armenia, Georgia, Russia* 
+-   Certificates for the organization of conferences, *Armenia*  
 
-        
-
-| Certificates of Appreciation for the reports in scientific conferences                                                                                                                                                                                                                                            | *Armenia, Georgia, Russia*     |   |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|---|
-| Certificates for the organization of conferences **TRAININGS AND SOCIAL ACTIVITIES**                                                                                                                                                                                                                              | *Armenia*                      |   |
+       ----   
+  #TRAININGS AND SOCIAL ACTIVITIES                                                                                                                                                                                                                                        
 | Betconstruct Intership program, Microsoft Innovation Center                                                                                                                                                                                                                                                       | *December 2016 – January 2017* |   |
 | [Certificate of Completion: C\# Course](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Esololearn%2Ecom%2FProfile%2F3508443%2F&urlhash=53C6&trk=profile_certification_company_title), [SoloLearn](https://www.linkedin.com/company/9435690?trk=prof-certification-org_name), License 1080-3508443 | January 2017                   |   |
 | Programming course, Topsoft (Programming fundamentals, HTML, CSS, C\#/.NET Framework)                                                                                                                                                                                                                             | *October 2016 - present*       |   |
