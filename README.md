@@ -53,14 +53,14 @@ Linkedin: <https://www.linkedin.com/in/tigranshakhbekyan>
 | Programming course, Topsoft (Programming fundamentals, HTML, CSS, C\#/.NET Framework)                                                                                                                                                                                                                             | *October 2016 - present*       |   |
 | Programming course, Dlink Armenia (Linux, C, SQL)                                                                                                                                                                                                                                                                 | *October – December 2016*      |   |
 | Certificate of training program of Micromine geological program                                                                                                                                                                                                                                                   | January 2010                   |   |
-| Published 1 book, 1 map and 11 Articles in various journals and books (available upon request)                                                                                                                                                                                                                    |                                |   |
+| Published 1 book, 1 map and 11 Articles in various journals and books (available upon request)                                                                                                                                                                                                                    |  2008-2015                           |   |
 | Member of the Student Scientific Society of the Yerevan State University                                                                                                                                                                                                                                          | *2008-2014*                    |   |
-
-**LANGUAGES**
+----
+#LANGUAGES
 
 Armenian (native), Russian (fluent), English (good, TOEFL)
-
-**TECHNICAL SKILLS**
+----
+#TECHNICAL SKILLS
 
 | Languages: C, C++, C\# 6.0 |
 |----------------------------|
