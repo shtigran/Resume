@@ -21,15 +21,15 @@ different situations will be useful for my future work.
 
 -   Languages: C\# 6.0, C, C++.
 -   Technics: .NET Framework 4.6, Object Oriented Programming, MS Visual Studio
-    2015, GitHub
 
 -   Internet Technology: HTML and CSS
 
 -   Operating Systems: Unix (Linux), Windows (Vista, 7, 8)
 
--   Databases: SQL, MySQL
+-   Databases: SQL
 
 -   Programs: Internet, MS office, Autocad, Photoshop, etc.
+-   Used books and Websites: A.Troelsen C# 6.0 and .NET 4.6 Framework,  https://msdn.microsoft.com,      www.pluralsight.com,      www.dotnetperls.com  
 
 ----
 ###EDUCATION
