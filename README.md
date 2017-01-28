@@ -1,6 +1,6 @@
 #TIGRAN SHAKHBEKYAN
 
-###_PERSONAL DETAILS_
+###PERSONAL DETAILS:
 
 Birth date: 11.05MAY.1988                                                                                                       
 Marital status: Married   
@@ -10,7 +10,7 @@ GitHub:         <https://github.com/shtigran>
 Codefights:     <https://codefights.com/profile/tigran_sh3>    
 
 ----
-###OBJECTIVE: Developer
+###OBJECTIVE: DEVELOPER
 
 In my opinion, my chief qualities, are sense of purpose and hardworking, that
 will help me to become a good programmer. My ability to find solutions to
