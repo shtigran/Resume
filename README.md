@@ -12,7 +12,7 @@ Codefights:     <https://codefights.com/profile/tigran_sh3>
 ----
 ###OBJECTIVE: Developer
 
-_In my opinion_, my chief qualities, are sense of purpose and hardworking, that
+In my opinion, my chief qualities, are sense of purpose and hardworking, that
 will help me to become a good programmer. My ability to find solutions to
 different situations will be useful for my future work.
 
