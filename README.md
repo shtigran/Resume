@@ -35,14 +35,26 @@ different situations will be useful for my future work.
   -  January 2010: Certificate of training program of Micromine geological program
   -  Published 1 book, 1 map  and 11 Articles in various journals and books (available upon request)
   -  2008-2014: Member of the  Student Scientific Society of the Yerevan State University  
+  
+----
+###LANGUAGES:
+
+-	Armenian -native
+- Russian - fluent 
+- English – fluent (TOEFL)
+
 ----
 ###EDUCATION:
 
-| Yerevan State University Department of Geology and Geography PhD student, PhD degree      | *Sep. 2011 – May 2014*,  Yerevan, Armenia |
-|----------------------------------------------------------------------------|----------------------------------------------------------|---|
-| Yerevan State University  Department of Geology and Geography, Master of Science (Diploma with Honor)  | *Sep. 2009– May 2011*, Yerevan, Armenia  |
-| Yerevan State University Department of Geology, Bachelor’s Degree (Diploma with Honor)                      | Sep. 2005 – May 2009, Yerevan, Armenia     |
-| № 10 secondary School            |   1995-2005, *Gyumri*   |
+•	Yerevan, Armenia Sep.
+2011 – May 2014 :	Yerevan State University, Department of Geology and Geography PhD student, PhD degree
+•	Yerevan, Armenia Sep.
+2009 – May 2011 :	Yerevan State University, Department of Geology and Geography, Master of Science (Diploma with Honor)
+•	Yerevan, Armenia Sep.
+2005 – May 2009 :	Yerevan State University, Department of Geology, Bachelor’s Degree (Diploma with Honor)
+•	Gyumri, Armenia 
+1995-2005:	№ 10 secondary  School
+
 
   ----
   
@@ -73,7 +85,6 @@ different situations will be useful for my future work.
        
 
 
-###LANGUAGES:
 
-Armenian (native), Russian (fluent), English (good, TOEFL)
+
 
