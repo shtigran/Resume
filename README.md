@@ -4,10 +4,10 @@
 
 Birth date: 11.05MAY.1988                                                                                                       
 Marital status: Married, 
-E-mail:         <shakhbekyantigran@gmail.com>  < > < >                  
-Linkedin:       <https://www.linkedin.com/in/tigranshakhbekyan> < > < >    
-GitHub:         <https://github.com/shtigran> < > < >    
-Codefights:     <https://codefights.com/profile/tigran_sh3>  < > < >    
+E-mail:         <shakhbekyantigran@gmail.com>                  
+Linkedin:       <https://www.linkedin.com/in/tigranshakhbekyan>                    
+GitHub:         <https://github.com/shtigran>      
+Codefights:     <https://codefights.com/profile/tigran_sh3>       
 
 
 ----
