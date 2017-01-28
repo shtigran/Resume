@@ -54,8 +54,8 @@ different situations will be useful for my future work.
 ----
 ###EDUCATION:
 
-- Yerevan, Armenia Sep.        Yerevan State University, Department of Geology and Geography PhD student, PhD degree
-  2011 – May 2014 :	
+- Yerevan, Armenia Sep.2011 – May 2014 :  Yerevan State University, Department of Geology and Geography PhD student, PhD degree
+  
 - Yerevan, Armenia Sep.        Yerevan State University, Department of Geology and Geography, Master of Science (Diploma with Honor)
   2009 – May 2011 :	
 - Yerevan, Armenia Sep.        Yerevan State University, Department of Geology, Bachelor’s Degree (Diploma with Honor)
