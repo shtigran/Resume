@@ -17,7 +17,7 @@ will help me to become a good programmer. My ability to find solutions to
 different situations will be useful for my future work.
 
 ----
-###TECHNICAL SKILLS
+###TECHNICAL SKILLS:
 
 -   Languages: C\# 6.0, C, C++.
 -   Technics: .NET Framework 4.6, Object Oriented Programming, MS Visual Studio
@@ -32,7 +32,7 @@ different situations will be useful for my future work.
 -   Used books and Websites: A.Troelsen C# 6.0 and .NET 4.6 Framework,  https://msdn.microsoft.com,      www.pluralsight.com,      www.dotnetperls.com  
 
 ----
-###EDUCATION
+###EDUCATION:
 
 | Yerevan State University Department of Geology and Geography PhD student, PhD degree      | *Sep. 2011 – May 2014*,  Yerevan, Armenia |
 |----------------------------------------------------------------------------|----------------------------------------------------------|---|
@@ -42,7 +42,7 @@ different situations will be useful for my future work.
 
   ----
   
-###EXPERIENCE                                                                                                                                 
+###EXPERIENCE:                                                                                                                                 
 | "Freedom Mining" LLC, Geological prospecting and exploration, geologist           | *Nagorno-Karabakh, Armenia June 2013- present*  |
 |----------------------------------------------------------------------------|----------------------------------------------------------|---|
 | "Abvan" Ltd, Geological prospecting and exploration, geologist             | *Nagorno-Karabakh, Armenia October 2012- November 2012*  |   |
@@ -58,7 +58,7 @@ different situations will be useful for my future work.
 
 ----
 
-###AWARDS RECEIVED   
+###AWARDS RECEIVED:   
 
 -   Silver medal and Certificate of Appreciation for the Best student of the
     Yerevan State University, *May-2009*     
@@ -67,7 +67,7 @@ different situations will be useful for my future work.
 
 ----   
        
-###TRAININGS AND SOCIAL ACTIVITIES
+###TRAININGS AND SOCIAL ACTIVITIES:
   
 | Betconstruct Intership program, Microsoft Innovation Center          | December 2016 – January 2017 |
 |----------------------------------------------------------------------------|----------------------------------------------------------|---|                                                                                                                                
@@ -79,10 +79,7 @@ different situations will be useful for my future work.
 | Member of the Student Scientific Society of the Yerevan State University                                                                                                                                                                                                                                          | *2008-2014*                    |   |
 ----
 
-###LANGUAGES
+###LANGUAGES:
 
 Armenian (native), Russian (fluent), English (good, TOEFL)
 
-----
-
-----
