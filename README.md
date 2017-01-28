@@ -7,9 +7,14 @@ Marital status: Married
 E-mail:         <shakhbekyantigran@gmail.com>                  
 Linkedin:       <https://www.linkedin.com/in/tigranshakhbekyan>                    
 GitHub:         <https://github.com/shtigran>      
-Codefights:     <https://codefights.com/profile/tigran_sh3>       
+Codefights:     <https://codefights.com/profile/tigran_sh3>    
 
+----
+###OBJECTIVE: Developer
 
+In my opinion, my chief qualities, are sense of purpose and hardworking, that
+will help me to become a good programmer. My ability to find solutions to
+different situations will be useful for my future work.
 ----
 
 ###EDUCATION
@@ -79,9 +84,3 @@ Armenian (native), Russian (fluent), English (good, TOEFL)
 -   Programs: Internet, MS office, Autocad, Photoshop, etc.
 
 ----
-
-###OBJECTIVE: Developer
-
-In my opinion, my chief qualities, are sense of purpose and hardworking, that
-will help me to become a good programmer. My ability to find solutions to
-different situations will be useful for my future work.
