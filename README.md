@@ -1,6 +1,6 @@
 #TIGRAN SHAKHBEKYAN
 
-###__PERSONAL DETAILS__
+###_PERSONAL DETAILS_
 
 Birth date: 11.05MAY.1988                                                                                                       
 Marital status: Married   
