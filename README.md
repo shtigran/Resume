@@ -62,23 +62,19 @@ different situations will be useful for my future work.
  
 -	Gyumri, Armenia 1995-2005:	            № 10 secondary  School
  
-
   ----
   
 ###EXPERIENCE:                                                                                                                                 
-| "Freedom Mining" LLC, Geological prospecting and exploration, geologist           | *Nagorno-Karabakh, Armenia June 2013- present*  |
+| June 2013- present Nagorno-Karabakh, Armenia            | "Freedom Mining" LLC, Geological prospecting and exploration, geologist  |
 |----------------------------------------------------------------------------|----------------------------------------------------------|---|
-| "Abvan" Ltd, Geological prospecting and exploration, geologist             | *Nagorno-Karabakh, Armenia October 2012- November 2012*  |   |
-| "Abvan" Ltd, Geological prospecting and exploration, geologist             | *Region of Gegharqunik, Armenia July 2011- August -2012* |   |
-| "Abvan" Ltd, Geological prospecting and exploration, geologist             | *Region of Syunik, Armenia June- October-2010*           |   |
-| Geophysical survey of the Mghart gold ore field, geophysicist              | *Region of Lori, Armenia September- October-2009*        |   |
-| Armenian-Russian archaeological expedition, geologist                      | *Region of Lori, Armenia September- October-2008*        |   |
-| "Abvan" Ltd, Geological prospecting and exploration, engineer geologist    | *Region of Gegharqunik, Armenia June- August-2008*       |   |
-| Armenian-Russian archaeological expedition, geologist                      | *Region of Lori, Armenia September- October-2007*        |   |
-| Geological prospecting and exploration, field assistant                    | *Region of Gegharqunik,*  *August-2007*                  |   |
-| "Structural geology and geological mapping, geophysics", summer field work | *Regions of Armenia July-2007*                           |   |
-| "General geology of the Republic of Armenia", summer field work            | *Regions of Armenia* *July - 2006*                       
-
+| June 2010 - November 2012 Regions of Syunik, Gegharqunik Armenia           | "Abvan" Ltd, Geological prospecting and exploration, geologist   |   |
+| September- October-2009 Region of Lori, Armenia              | Geophysical survey of the Mghart gold ore field, geophysicist  |   |
+|  September- October-2008 Region of Lori, Armenia            | Armenian-Russian archaeological expedition, geologist            |   |
+| June- August-2008, Region of Gegharqunik, Armenia            | "Abvan" Ltd, Geological prospecting and exploration, engineer geologist         |   |
+| September- October-2007 Region of Lori, Armenia                      | Armenian-Russian archaeological expedition, geologist         |   |
+| August-2007  Region of Gegharqunik, Armenia    | Geological prospecting and exploration, field assistant       |   |
+| July-2007 Regions of Armenia                    | "Structural geology and geological mapping, geophysics", summer field work         |   |
+| July – 2006 Regions of Armenia                   | "General geology of the Republic of Armenia", summer field work                  |   |                    
 ----
 
 
