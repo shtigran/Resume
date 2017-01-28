@@ -17,7 +17,21 @@ will help me to become a good programmer. My ability to find solutions to
 different situations will be useful for my future work.
 
 ----
+###TECHNICAL SKILLS
 
+-   Languages: C\# 6.0, C, C++.
+-   Technics: .NET Framework 4.6, Object Oriented Programming, MS Visual Studio
+    2015, GitHub
+
+-   Internet Technology: HTML and CSS
+
+-   Operating Systems: Unix (Linux), Windows (Vista, 7, 8)
+
+-   Databases: SQL, MySQL
+
+-   Programs: Internet, MS office, Autocad, Photoshop, etc.
+
+----
 ###EDUCATION
 
 | Yerevan State University Department of Geology and Geography PhD student, PhD degree      | *Sep. 2011 – May 2014*,  Yerevan, Armenia |
@@ -70,18 +84,5 @@ different situations will be useful for my future work.
 Armenian (native), Russian (fluent), English (good, TOEFL)
 
 ----
-###TECHNICAL SKILLS
-
--   Languages: C\# 6.0, C, C++.
--   Technics: .NET Framework 4.6, Object Oriented Programming, MS Visual Studio
-    2015, GitHub
-
--   Internet Technology: HTML and CSS
-
--   Operating Systems: Unix (Linux), Windows (Vista, 7, 8)
-
--   Databases: SQL, MySQL
-
--   Programs: Internet, MS office, Autocad, Photoshop, etc.
 
 ----
