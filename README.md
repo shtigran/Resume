@@ -28,15 +28,13 @@ different situations will be useful for my future work.
 
 ----
 ###TRAININGS AND SOCIAL ACTIVITIES:
-  
-| Betconstruct Intership program, Microsoft Innovation Center          | December 2016 – January 2017 |
-|----------------------------------------------------------------------------|----------------------------------------------------------|---|                                                                                                                                
-| [Certificate of Completion: C\# Course](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Esololearn%2Ecom%2FProfile%2F3508443%2F&urlhash=53C6&trk=profile_certification_company_title), [SoloLearn](https://www.linkedin.com/company/9435690?trk=prof-certification-org_name), License 1080-3508443 | January 2017                   |   |
-| Programming course, Topsoft (Programming fundamentals, HTML, CSS, C\#/.NET Framework)                                                                                                                                                                                                                             | *October 2016 - present*       |   |
-| Programming course, Dlink Armenia (Linux, C, SQL)                                                                                                                                                                                                                                                                 | *October – December 2016*      |   |
-| Certificate of training program of Micromine geological program                                                                                                                                                                                                                                                   | January 2010                   |   |
-| Published 1 book, 1 map and 11 Articles in various journals and books (available upon request)                                                                                                                                                                                                                    |  2008-2015                           |   |
-| Member of the Student Scientific Society of the Yerevan State University                                                                                                                                                                                                                                          | *2008-2014*                    |   |
+  -  December 2016 – January 2017:  Betconstruct Intership program, Microsoft Innovation Center (C#, .Net Framework)
+  -  January 2017: Certificate of Completion: C# Course, SoloLearn, License 1080-3508443
+  -  October 2016 – present: Programming courses, Topsoft (Programming fundamentals, C#/.NET Framework, HTML, CSS,)
+  -  October – December 2016: Programming course, Dlink Armenia (Linux, C, SQL)
+  -  January 2010: Certificate of training program of Micromine geological program
+  -  Published 1 book, 1 map  and 11 Articles in various journals and books (available upon request)
+  -  2008-2014: Member of the  Student Scientific Society of the Yerevan State University  
 ----
 ###EDUCATION:
 
