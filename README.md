@@ -3,10 +3,12 @@
 ###PERSONAL DETAILS
 
 Birth date: 11.05MAY.1988                                                                                                       
-Nationality: Armenian, Marital status: Married, 
-Sex: Male  
-E-mail: <shakhbekyantigran@gmail.com>                    
-Linkedin: <https://www.linkedin.com/in/tigranshakhbekyan>
+Marital status: Married, 
+E-mail:     <shakhbekyantigran@gmail.com>                    
+Linkedin:   <https://www.linkedin.com/in/tigranshakhbekyan>
+GitHub:     <https://github.com/shtigran> 
+Codefights: <https://codefights.com/profile/tigran_sh3>  
+
 
 ----
 
