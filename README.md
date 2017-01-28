@@ -1,13 +1,12 @@
 #TIGRAN SHAKHBEKYAN
-
-
-Birth date: 11.05MAY.1988                                     
-###PERSONAL DETAILS:                                                                  
+                                
+###PERSONAL DETAILS:
+Birth date: 11.05MAY.1988  
 Marital status: Married   
 E-mail:         <shakhbekyantigran@gmail.com>                  
 Linkedin:       <https://www.linkedin.com/in/tigranshakhbekyan>                    
 GitHub:         <https://github.com/shtigran>      
-Codefights:     <https://codefights.com/profile/tigran_sh3>                   ![N|Solid](https://github.com/shtigran/Resume/blob/master/Image%20for%20CV.jpg)
+Codefights:     <https://codefights.com/profile/tigran_sh3>                   
 
 ----
 ###OBJECTIVE: DEVELOPER
