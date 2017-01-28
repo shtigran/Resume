@@ -62,7 +62,7 @@ different situations will be useful for my future work.
  
 -	Gyumri, Armenia 1995-2005:	            № 10 secondary  School
  
-  ----
+----
   
 ###EXPERIENCE:                                                                                                                                 
 | June 2013- present Nagorno-Karabakh, Armenia            | "Freedom Mining" LLC, Geological prospecting and exploration, geologist  |
