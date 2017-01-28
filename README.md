@@ -66,7 +66,7 @@ Armenian (native), Russian (fluent), English (good, TOEFL)
 ----
 ###TECHNICAL SKILLS
 
--   Languages: C, C++, C\# 6.0
+-   Languages: C\# 6.0, C, C++.
 -   Technics: .NET Framework 4.6, Object Oriented Programming, MS Visual Studio
     2015, GitHub
 
