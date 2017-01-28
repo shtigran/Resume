@@ -56,12 +56,12 @@ different situations will be useful for my future work.
 
 - Yerevan, Armenia Sep.2011 – May 2014 :  Yerevan State University, Department of Geology and Geography PhD student, PhD degree
   
-- Yerevan, Armenia Sep.        Yerevan State University, Department of Geology and Geography, Master of Science (Diploma with Honor)
-  2009 – May 2011 :	
-- Yerevan, Armenia Sep.        Yerevan State University, Department of Geology, Bachelor’s Degree (Diploma with Honor)
-  2005 – May 2009 :	
--	Gyumri, Armenia              № 10 secondary  School
-  1995-2005:	
+- Yerevan, Armenia Sep.2009 – May 2011 :       Yerevan State University, Department of Geology and Geography, Master of Science (Diploma with Honor)
+ 	
+- Yerevan, Armenia Sep.2005 – May 2009 :	      Yerevan State University, Department of Geology, Bachelor’s Degree (Diploma with Honor)
+ 
+-	Gyumri, Armenia 1995-2005:	            № 10 secondary  School
+ 
 
   ----
   
