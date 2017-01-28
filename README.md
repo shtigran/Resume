@@ -20,16 +20,22 @@ different situations will be useful for my future work.
 
 -   Languages: C\# 6.0, C, C++.
 -   Technics: .NET Framework 4.6, Object Oriented Programming, MS Visual Studio
-
 -   Internet Technology: HTML and CSS
-
 -   Operating Systems: Unix (Linux), Windows (Vista, 7, 8)
-
 -   Databases: SQL
-
 -   Programs: Internet, MS office, Autocad, Photoshop, etc.
 -   Used books and Websites: A.Troelsen C# 6.0 and .NET 4.6 Framework,  https://msdn.microsoft.com,      www.pluralsight.com,      www.dotnetperls.com  
-
+----
+###TRAININGS AND SOCIAL ACTIVITIES:
+  
+| Betconstruct Intership program, Microsoft Innovation Center          | December 2016 – January 2017 |
+|----------------------------------------------------------------------------|----------------------------------------------------------|---|                                                                                                                                
+| [Certificate of Completion: C\# Course](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Esololearn%2Ecom%2FProfile%2F3508443%2F&urlhash=53C6&trk=profile_certification_company_title), [SoloLearn](https://www.linkedin.com/company/9435690?trk=prof-certification-org_name), License 1080-3508443 | January 2017                   |   |
+| Programming course, Topsoft (Programming fundamentals, HTML, CSS, C\#/.NET Framework)                                                                                                                                                                                                                             | *October 2016 - present*       |   |
+| Programming course, Dlink Armenia (Linux, C, SQL)                                                                                                                                                                                                                                                                 | *October – December 2016*      |   |
+| Certificate of training program of Micromine geological program                                                                                                                                                                                                                                                   | January 2010                   |   |
+| Published 1 book, 1 map and 11 Articles in various journals and books (available upon request)                                                                                                                                                                                                                    |  2008-2015                           |   |
+| Member of the Student Scientific Society of the Yerevan State University                                                                                                                                                                                                                                          | *2008-2014*                    |   |
 ----
 ###EDUCATION:
 
@@ -66,17 +72,7 @@ different situations will be useful for my future work.
 
 ----   
        
-###TRAININGS AND SOCIAL ACTIVITIES:
-  
-| Betconstruct Intership program, Microsoft Innovation Center          | December 2016 – January 2017 |
-|----------------------------------------------------------------------------|----------------------------------------------------------|---|                                                                                                                                
-| [Certificate of Completion: C\# Course](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Esololearn%2Ecom%2FProfile%2F3508443%2F&urlhash=53C6&trk=profile_certification_company_title), [SoloLearn](https://www.linkedin.com/company/9435690?trk=prof-certification-org_name), License 1080-3508443 | January 2017                   |   |
-| Programming course, Topsoft (Programming fundamentals, HTML, CSS, C\#/.NET Framework)                                                                                                                                                                                                                             | *October 2016 - present*       |   |
-| Programming course, Dlink Armenia (Linux, C, SQL)                                                                                                                                                                                                                                                                 | *October – December 2016*      |   |
-| Certificate of training program of Micromine geological program                                                                                                                                                                                                                                                   | January 2010                   |   |
-| Published 1 book, 1 map and 11 Articles in various journals and books (available upon request)                                                                                                                                                                                                                    |  2008-2015                           |   |
-| Member of the Student Scientific Society of the Yerevan State University                                                                                                                                                                                                                                          | *2008-2014*                    |   |
-----
+
 
 ###LANGUAGES:
 
