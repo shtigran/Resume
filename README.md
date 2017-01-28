@@ -25,6 +25,7 @@ different situations will be useful for my future work.
 -   Databases: SQL
 -   Programs: Internet, MS office, Autocad, Photoshop, etc.
 -   Used books and Websites: A.Troelsen C# 6.0 and .NET 4.6 Framework,  https://msdn.microsoft.com,      www.pluralsight.com,      www.dotnetperls.com  
+
 ----
 ###TRAININGS AND SOCIAL ACTIVITIES:
   
