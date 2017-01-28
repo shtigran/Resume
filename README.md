@@ -77,9 +77,6 @@ different situations will be useful for my future work.
 | July – 2006 Regions of Armenia                   | "General geology of the Republic of Armenia", summer field work                  |   |                    
 ----
 
-
-
-----   
        
 
 
