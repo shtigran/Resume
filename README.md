@@ -78,8 +78,9 @@ different situations will be useful for my future work.
 ----
 
        
+- [Resume in PDF]
+- [Resume in DOC]
 
 
-
-
-
+[Resume in PDF]: <https://github.com/shtigran/Resume/raw/master/CV_Tigran%20Shakhbekyan__2017.pdf>
+[Resume in DOC]: <https://github.com/shtigran/Resume/raw/master/CV_Tigran%20Shakhbekyan__2017.pdf>
