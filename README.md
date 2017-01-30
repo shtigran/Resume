@@ -64,7 +64,7 @@ different situations will be useful for my future work.
  
 ----
   
-###EXPERIENCE:                                                                                                                                 
+###EXPERIENCE:                                                                                                                                   
 | June 2013- present Nagorno-Karabakh, Armenia            | "Freedom Mining" LLC, Geological prospecting and exploration, geologist  |
 |----------------------------------------------------------------------------|----------------------------------------------------------|---|
 | June 2010 - November 2012 Regions of Syunik, Gegharqunik Armenia           | "Abvan" Ltd, Geological prospecting and exploration, geologist   |   |
